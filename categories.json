@@ -1,0 +1,31 @@
+{
+  "Uncategorized": [],
+  "Shopping": [
+    "FLIPKART",
+    "AMAZON INDIA",
+    "DMART",
+    "BIG BAZAAR",
+    "RELIANCE SMART"
+  ],
+  "Travel": [
+    "AIR INDIA",
+    "TAJ HOTELS",
+    "MAKEMYTRIP"
+  ],
+  "Insurance": [
+    "ICICI LOMBARD INSURANCE"
+  ],
+  "Bank Fee": [
+    "HDFC BANK FEE"
+  ],
+  "Subscriptions": [
+    "NETFLIX INDIA",
+    "APPLE.COM BILL"
+  ],
+  "Transport": [
+    "OLA CABS"
+  ],
+  "Food & Dining": [
+    "ZOMATO INDIA"
+  ]
+}
